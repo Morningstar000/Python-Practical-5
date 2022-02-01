@@ -1,6 +1,6 @@
 # 20CE075 PARTH PARMAR
 # Practical 4 Find runner-up from given list
-# GitHub link
+# https://github.com/Morningstar000/Python-Practical-5
 
 string = input()
 str1 = ''
